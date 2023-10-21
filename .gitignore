@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+bot_sessions
+.env
+baileys.log
+bot.qr.png
+core.class.log
+queue.class.log
